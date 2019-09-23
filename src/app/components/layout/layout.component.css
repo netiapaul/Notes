@@ -1,0 +1,25 @@
+footer{
+   
+    height:auto;
+    border-top:2px solid rgb(94, 93, 93);
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+nav{
+    height: 100px;
+    max-height:100%;
+}
+nav p{
+    color: white;
+}
+nav p:hover{
+    color: white;
+}
+.row{
+    margin:40px 0;
+    width: 100%;
+}
+
+
+

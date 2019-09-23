@@ -1,0 +1,14 @@
+<div class="container-fluid">
+    <!-- <ul class="list-group"> -->
+        <div li [ngClass]="setClasses()">
+            <mat-checkbox (change)="onChange(todo)"> {{todo.id}}. {{todo.title}}</mat-checkbox>
+            <button class="btn btn-small btn-danger float-right" del (click)="onDelete(todo)"
+            matTooltip="Delete Note">
+                <i class="material-icons">
+                    delete_forever
+                </i>
+            </button>
+        </div>
+      
+    <!-- </ul> -->
+</div>

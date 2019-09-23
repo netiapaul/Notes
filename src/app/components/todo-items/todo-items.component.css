@@ -1,0 +1,12 @@
+[li]{
+    position: relative;
+    display: block;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.is-complete{
+    text-decoration: line-through;  
+}

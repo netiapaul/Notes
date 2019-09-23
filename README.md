@@ -1,6 +1,6 @@
 # Notes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+This project is a notes todo list to save your short notes in the web.it  has an inbuilt system web api that acts like a live server
 
 ## Development server
 

@@ -1,0 +1,22 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "title": "HTML5",
+        "completed": true,
+        "email": "sebastian@codingthesmartway.com"
+      },
+      {
+        "id": 2,
+        "title": "CSS3",
+        "completed": false,
+        "email": "john@codingthesmartway.com"
+      },
+      {
+        "id": 3,
+        "title": "Javascript",
+        "completed": false,
+        "email": "paul@codingthesmartway.com"
+      }
+    ]
+  }
